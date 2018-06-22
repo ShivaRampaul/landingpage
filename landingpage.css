@@ -1,1 +1,10 @@
-p
+body {
+	background: url("https://images.unsplash.com/photo-1520560321666-4b36560e7979?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e36630cb3e85666a6329de34dc561b7c&auto=format&fit=crop&w=1050&q=80");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
